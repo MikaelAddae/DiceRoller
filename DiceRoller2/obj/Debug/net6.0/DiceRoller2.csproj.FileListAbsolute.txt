@@ -1,0 +1,15 @@
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\bin\Debug\net6.0\DiceRoller2.exe
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\bin\Debug\net6.0\DiceRoller2.deps.json
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\bin\Debug\net6.0\DiceRoller2.runtimeconfig.json
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\bin\Debug\net6.0\DiceRoller2.dll
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\bin\Debug\net6.0\DiceRoller2.pdb
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.csproj.AssemblyReference.cache
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.AssemblyInfoInputs.cache
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.AssemblyInfo.cs
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.csproj.CoreCompileInputs.cache
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.dll
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\refint\DiceRoller2.dll
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.pdb
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\DiceRoller2.genruntimeconfig.cache
+C:\Users\Kelsey & Mikael\source\repos\DiceRoller2\DiceRoller2\obj\Debug\net6.0\ref\DiceRoller2.dll
